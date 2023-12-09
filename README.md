@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Berk! 👋
 
 ## About Me
 I am a Software Quality Assurance Tester at Insider. I have a strong passion for Automation and DevOps Technologies. My technical expertise includes Python, JavaScript, C#, Git, Jenkins, Selenium, SQL, and Linux.
