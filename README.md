@@ -1,14 +1,15 @@
 # Hello, I'm Berk! 👋
 
 ## About Me
-I am a Software Quality Assurance Tester at Insider. I have a strong passion for Automation and DevOps Technologies. My technical expertise includes Python, JavaScript, C#, Git, Jenkins, Selenium, SQL, and Linux.
+As an AWS-certified Cloud Practitioner with a strong background in DevOps, I specialize in leveraging Python, JavaScript, and Go to build and maintain robust cloud infrastructure solutions. My expertise in these programming languages, combined with my cloud certification, enables me to drive efficiency, optimize performance, and streamline deployment processes. Passionate about continuous integration and continuous delivery (CI/CD), I am committed to delivering scalable and reliable solutions that meet the dynamic needs of modern businesses.
 
 ## 🚀 My Skills
-- **Programming Languages:** Python, JavaScript, C#
+- **Programming Languages:** Python, JavaScript, Go
 - **Testing:** Manual Testing, Automated Testing, Test Planning, Test Case Design
 - **Tools & Frameworks:** Git, Jenkins, Selenium, BeautifulSoup, Docker, NodeJS.
 - **Database:** SQL
 - **Operating System:** Linux
+- **Technologies** AWS, Docker, Kubernetes, Terraform
 
 ## 🌐 DevOps and Automation
 I am passionate about Automation and DevOps. I believe in streamlining processes and improving efficiency through automation. My experience with tools like Git and Jenkins reflects my commitment to implementing DevOps practices in software development.
@@ -23,8 +24,6 @@ I am passionate about Automation and DevOps. I believe in streamlining processes
 - Email: berk.akipek.96@gmail.com
 
 ## 🌱 I'm Currently Learning
-- Kubernetes
-- AWS 
 - Networking
 - Infrastructure As Code
 - Machine Learning
