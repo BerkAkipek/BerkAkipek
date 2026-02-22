@@ -31,5 +31,5 @@ I am passionate about Automation and DevOps. I believe in streamlining processes
 ## Let's Collaborate!
 I'm always open to collaboration and new opportunities. If you have a project or idea you'd like to discuss, feel free to reach out!
 
-## 🎉 Thanks for visiting!
+## Thanks for visiting!
 Feel free to explore my repositories and let's connect! 😊
